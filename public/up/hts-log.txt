@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 27 Jul 2024 15:44:09 at https://demo.dashboardpack.com/architectui-html-pro/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.dashboardpack.com/architectui-html-pro/ -O1 "C:\My Web Sites\up" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:54:56	Warning: 	Retry after error -2 (Receive Time Out) at link https://demo.dashboardpack.com/architectui-html-pro/forms-controls.html (from https://demo.dashboardpack.com/architectui-html-pro/)
+15:55:07	Warning: 	Retry after error -2 (Receive Time Out) at link https://demo.dashboardpack.com/architectui-html-pro/assets/fonts/LR.svg (from https://demo.dashboardpack.com/architectui-html-pro/main.d810cf0ae7f39f28f336.css)
+15:57:11	Error: 	"Not Found" (404) at link https://demo.dashboardpack.com/architectui-html-pro/content (from https://demo.dashboardpack.com/architectui-html-pro/forms-wysiwyg-editor.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 2 seconds : 396 links scanned, 392 files written (19551736 bytes overall) [8166770 bytes received at 10443 bytes/sec], 15085252 bytes transferred using HTTP compression in 342 files, ratio 22%, 13.2 requests per connection
+(1 errors, 2 warnings, 0 messages)
